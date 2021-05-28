@@ -11,6 +11,7 @@ slides: example1
 url_pdf: ""
 publication_types:
   - "1"
+  - "2"
 authors:
   - Chenzhuo Li
   - Robert Ford
