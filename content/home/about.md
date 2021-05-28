@@ -2,11 +2,13 @@
 widget: About
 active: true
 author: admin
-widget_id: author
+widget_id: AUTHORS
 headless: true
 weight: 20
 title: Biography
 subtitle: sssas
+design:
+  columns: "1"
 ---
 aaa<!--StartFragment-->
 
@@ -15,3 +17,7 @@ sts include distributed robotics, mobile computing and programmable matter. He l
 Lorem ipsum dolor sit am
 
 <!--EndFragment-->
+
+
+
+zenmebuxianshi???
