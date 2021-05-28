@@ -6,4 +6,4 @@ bio: Chenzhuo LI (李陈卓)
 social: []
 superuser: false
 ---
-Chenzhuo LI (李陈卓) is a
+Chenzhuo LI (李陈卓) is a doctoral student at EPFL EMSI Lab. His research interest
